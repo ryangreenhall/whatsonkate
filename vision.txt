@@ -1,0 +1,39 @@
+whatsonkate.co.uk
+
+Vision:
+
+Destination site for people wishing to track the fashion choices of Kate Middleton.
+
+High Level Features:
+
+* Displays pictures of items worn at Key events
+
+* Find clothes in the style of Kate:
+  - original 
+  - mid range
+  - budget
+  
+* What would kate wear?
+
+* Send-to-friend 
+
+* Could we build a community? commenting etc.
+  
+  
+Revenue Model:
+
+1) Sending traffic to sellers of clothes worn by Kate
+2) Advertising - depends on how successful we are at getting traffic to the site.
+
+Issue:
+
+1) Photo copyright
+2) Staying upto date with events
+3) How can we find out where 'copies' are being sold.
+
+
+Approach:
+
+Competitors?
+
+Only one.
